@@ -1,0 +1,15 @@
+D:\2tdss.NET\Fiap.Aula01\Fiap.Aula01.UI\bin\Debug\net6.0\Fiap.Aula01.UI.exe
+D:\2tdss.NET\Fiap.Aula01\Fiap.Aula01.UI\bin\Debug\net6.0\Fiap.Aula01.UI.deps.json
+D:\2tdss.NET\Fiap.Aula01\Fiap.Aula01.UI\bin\Debug\net6.0\Fiap.Aula01.UI.runtimeconfig.json
+D:\2tdss.NET\Fiap.Aula01\Fiap.Aula01.UI\bin\Debug\net6.0\Fiap.Aula01.UI.dll
+D:\2tdss.NET\Fiap.Aula01\Fiap.Aula01.UI\bin\Debug\net6.0\Fiap.Aula01.UI.pdb
+D:\2tdss.NET\Fiap.Aula01\Fiap.Aula01.UI\obj\Debug\net6.0\Fiap.Aula01.UI.csproj.AssemblyReference.cache
+D:\2tdss.NET\Fiap.Aula01\Fiap.Aula01.UI\obj\Debug\net6.0\Fiap.Aula01.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\2tdss.NET\Fiap.Aula01\Fiap.Aula01.UI\obj\Debug\net6.0\Fiap.Aula01.UI.AssemblyInfoInputs.cache
+D:\2tdss.NET\Fiap.Aula01\Fiap.Aula01.UI\obj\Debug\net6.0\Fiap.Aula01.UI.AssemblyInfo.cs
+D:\2tdss.NET\Fiap.Aula01\Fiap.Aula01.UI\obj\Debug\net6.0\Fiap.Aula01.UI.csproj.CoreCompileInputs.cache
+D:\2tdss.NET\Fiap.Aula01\Fiap.Aula01.UI\obj\Debug\net6.0\Fiap.Aula01.UI.dll
+D:\2tdss.NET\Fiap.Aula01\Fiap.Aula01.UI\obj\Debug\net6.0\refint\Fiap.Aula01.UI.dll
+D:\2tdss.NET\Fiap.Aula01\Fiap.Aula01.UI\obj\Debug\net6.0\Fiap.Aula01.UI.pdb
+D:\2tdss.NET\Fiap.Aula01\Fiap.Aula01.UI\obj\Debug\net6.0\Fiap.Aula01.UI.genruntimeconfig.cache
+D:\2tdss.NET\Fiap.Aula01\Fiap.Aula01.UI\obj\Debug\net6.0\ref\Fiap.Aula01.UI.dll
